@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0059-spiral-matrix-ii](https://github.com/zombie035/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/zombie035/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/zombie035/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/zombie035/LeetCode/tree/master/0228-summary-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0118-pascals-triangle](https://github.com/zombie035/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/zombie035/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
