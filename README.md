@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/zombie035/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zombie035/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/zombie035/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/zombie035/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/zombie035/LeetCode/tree/master/0228-summary-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/zombie035/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/zombie035/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
