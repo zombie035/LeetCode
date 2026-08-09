@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zombie035/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/zombie035/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zombie035/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/zombie035/LeetCode/tree/master/0118-pascals-triangle) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/zombie035/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
