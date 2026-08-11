@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zombie035/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/zombie035/LeetCode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/zombie035/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zombie035/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/zombie035/LeetCode/tree/master/0118-pascals-triangle) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/zombie035/LeetCode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zombie035/LeetCode/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/zombie035/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
