@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0228-summary-ranges](https://github.com/zombie035/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/zombie035/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0054-spiral-matrix](https://github.com/zombie035/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zombie035/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/zombie035/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/zombie035/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zombie035/LeetCode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/zombie035/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -54,7 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
