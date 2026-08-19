@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/zombie035/LeetCode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/zombie035/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/zombie035/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3460-count-the-number-of-inversions](https://github.com/zombie035/LeetCode/tree/master/3460-count-the-number-of-inversions) |
@@ -60,8 +61,36 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
