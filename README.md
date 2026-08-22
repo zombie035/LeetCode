@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0228-summary-ranges](https://github.com/zombie035/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/zombie035/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zombie035/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/zombie035/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3460-count-the-number-of-inversions](https://github.com/zombie035/LeetCode/tree/master/3460-count-the-number-of-inversions) |
@@ -57,11 +58,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0016-3sum-closest](https://github.com/zombie035/LeetCode/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/zombie035/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/zombie035/LeetCode/tree/master/0229-majority-element-ii) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/zombie035/LeetCode/tree/master/0493-reverse-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/zombie035/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
