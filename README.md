@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/zombie035/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/zombie035/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/zombie035/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0838-design-linked-list](https://github.com/zombie035/LeetCode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/zombie035/LeetCode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/zombie035/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
